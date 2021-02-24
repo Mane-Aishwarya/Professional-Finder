@@ -111,7 +111,7 @@ class Footer extends React.Component {
                 <div className="copyright" >
                   © {new Date().getFullYear()}{" "}
                   <a
-                    href="https://github.com/Mane-Aishwarya/ProfessionalFinder"
+                    href="https://github.com/Mane-Aishwarya/Professional-Finder"
                     target="_blank"
                     style={{color:"white"}}
                   >
@@ -149,7 +149,7 @@ class Footer extends React.Component {
 
                   <NavItem>
                     <NavLink
-                      href="https://github.com/Mane-Aishwarya/ProfessionalFinder"
+                      href="https://github.com/Mane-Aishwarya/Professional-Finder"
                       target="_blank"
                     >
                      Blog
